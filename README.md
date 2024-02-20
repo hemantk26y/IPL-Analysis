@@ -1,2 +1,2 @@
 # IPL-Analysis
- This is a IPL dashboard in Power BI
+ This is an IPL dashboard in Power BI
